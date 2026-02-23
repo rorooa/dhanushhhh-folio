@@ -1,3 +1,4 @@
+// Minimalist Portfolio by Dhanush
 import { useEffect, useState, useRef } from 'react';
 import { motion, useScroll, useSpring } from 'framer-motion';
 
